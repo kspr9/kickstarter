@@ -2,11 +2,11 @@
 
 ### What is this repository for? ###
 
-* Quick summary
+* Quick summary /n
 Testing the build a kickstarter project
 
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
 
 ### How do I get set up? ###
 
