@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* Quick summary \n
+* Quick summary <br>
 Testing the build a kickstarter project
 
 * Version
